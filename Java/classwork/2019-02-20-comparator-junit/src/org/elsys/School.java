@@ -13,7 +13,20 @@ public class School {
     }
 
     public Map<String, List<Student>> getStudentsByClass() {
-        return null;
+        Map<String, List<Student>> result = new HashMap<>();
+
+        for (Student student : students) {
+            if(!result.containsKey(student.getClazz())) {
+                result.put(student.getClazz(), new ArrayList<>());
+            }
+        }
+
+        for (Student student : students) {
+            if(result.containsKey(student.getClazz())) {
+                result.get(student.getClazz()).add(student);
+            }
+        }
+        return result;
     }
 
     public List<Student> getStudentsOrderedByGrade() {
