@@ -1,0 +1,22 @@
+package org.elsys.postfix.operations;
+
+import org.elsys.postfix.Calculator;
+
+import java.util.EmptyStackException;
+
+public abstract class BinaryOperation extends AbstractOperation {
+
+    public BinaryOperation(Calculator calculator, String token) {
+        super(calculator, token);
+    }
+
+    @Override
+    public void calculate() {
+        double v1 = getCalculator().popValue();
+        double v2 = getCalculator().popValue();
+        double result = doCalculate(v1, v2);
+        getCalculator().addValue(result);
+    }
+
+    protected abstract double doCalculate(double v1, double v2);
+}
