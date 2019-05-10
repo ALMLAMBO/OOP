@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fcacd5d-c3c1-45b3-91e9-83d2bca78a52" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/../../11a/2019-04-22-streams/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11a/2019-04-22-streams/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11a/2019-04-22-streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11a/2019-04-22-streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11b/2019-04-17-lambdas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11b/2019-04-17-lambdas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/02-card-game-sequel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/02-card-game-sequel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-postfix-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-postfix-calculator/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../../homeworks/01-card-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/01-card-game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/01-card-game/01-card-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/01-card-game/01-card-game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/01-card-game/src/org/elsys/cardgame/factory/DeckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/01-card-game/src/org/elsys/cardgame/factory/DeckFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/01-card-game/test/org/elsys/cardgame/deck/AbstractDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/01-card-game/test/org/elsys/cardgame/deck/AbstractDeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/01-card-game/test/org/elsys/cardgame/deck/WarDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/01-card-game/test/org/elsys/cardgame/deck/WarDeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-lambdas-and-streams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/09-lambdas-and-streams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/FilterCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/FilterCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/FlatCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/FlatCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/Grouping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/Grouping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/Joining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/Joining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/Partitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/Partitioning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/PeopleStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/PeopleStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/elsys/streams/practice/ToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/elsys/streams/practice/ToUpperCase.java" afterDir="false" />
+>>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< Updated upstream
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/FilterCollectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.classpath">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/OldestPersonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="40" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+=======
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> Stashed changes
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< Updated upstream
+        <option value="$PROJECT_DIR$/test/org/elsys/streams/practice/FilterCollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java" />
+        <option value="$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java" />
+=======
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/Grouping.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java" />
+        <option value="$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/Sum.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/Partitioning.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/FilterCollection.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/Joining.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/ToUpperCase.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/FlatCollection.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/PeopleStats.java" />
+        <option value="$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java" />
+>>>>>>> Stashed changes
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="130" />
+    <option name="y" value="110" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="09-lambdas-and-streams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-lambdas-and-streams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09-lambdas-and-streams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-lambdas-and-streams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09-lambdas-and-streams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-lambdas-and-streams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09-lambdas-and-streams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-lambdas-and-streams" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09-lambdas-and-streams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-lambdas-and-streams" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="09-lambdas-and-streams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-lambdas-and-streams" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+<<<<<<< Updated upstream
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556108087496" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556106724069" />
+>>>>>>> Stashed changes
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.org.elsys.streams.practice in 09-lambdas-and-streams">
+    <configuration name="FlatCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09-lambdas-and-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.elsys.streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.elsys.streams.practice" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-vintage]/[runner:org.elsys.streams.practice.FlatCollectionTest]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OldestPersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09-lambdas-and-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.elsys.streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.elsys.streams.practice" />
+      <option name="MAIN_CLASS_NAME" value="org.elsys.streams.practice.OldestPersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeopleStatsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09-lambdas-and-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.elsys.streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.elsys.streams.practice" />
+      <option name="MAIN_CLASS_NAME" value="org.elsys.streams.practice.PeopleStatsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToUpperCaseTest.transformShouldConvertCollectionElementsToUpperCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09-lambdas-and-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.elsys.streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.elsys.streams.practice" />
+      <option name="MAIN_CLASS_NAME" value="org.elsys.streams.practice.ToUpperCaseTest" />
+      <option name="METHOD_NAME" value="transformShouldConvertCollectionElementsToUpperCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.elsys.streams.practice in 09-lambdas-and-streams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="09-lambdas-and-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.elsys.streams.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.elsys.streams.practice" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.org.elsys.streams.practice in 09-lambdas-and-streams" />
+        <item itemvalue="JUnit.OldestPersonTest" />
+        <item itemvalue="JUnit.PeopleStatsTest" />
+        <item itemvalue="JUnit.FlatCollectionTest" />
+        <item itemvalue="JUnit.ToUpperCaseTest.transformShouldConvertCollectionElementsToUpperCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fcacd5d-c3c1-45b3-91e9-83d2bca78a52" name="Default Changelist" comment="" />
+      <created>1556106677287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556106677287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="org_elsys_streams_practice_in_09-lambdas-and-streams - 2019.04.27 at 14h 20m 07s.xml">
+      <configuration name="org.elsys.streams.practice in 09-lambdas-and-streams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_elsys_streams_practice_in_09-lambdas-and-streams - 2019.04.27 at 14h 20m 12s.xml">
+      <configuration name="org.elsys.streams.practice in 09-lambdas-and-streams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleStatsTest - 2019.04.27 at 14h 54m 39s.xml">
+      <configuration name="PeopleStatsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleStatsTest - 2019.04.27 at 15h 03m 27s.xml">
+      <configuration name="PeopleStatsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeopleStatsTest - 2019.04.27 at 15h 06m 35s.xml">
+      <configuration name="PeopleStatsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_elsys_streams_practice_in_09-lambdas-and-streams - 2019.04.27 at 15h 06m 48s.xml">
+      <configuration name="org.elsys.streams.practice in 09-lambdas-and-streams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OldestPersonTest - 2019.04.27 at 15h 12m 59s.xml">
+      <configuration name="OldestPersonTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OldestPersonTest - 2019.04.27 at 15h 13m 11s.xml">
+      <configuration name="OldestPersonTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_elsys_streams_practice_in_09-lambdas-and-streams - 2019.04.27 at 15h 13m 23s.xml">
+      <configuration name="org.elsys.streams.practice in 09-lambdas-and-streams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_elsys_streams_practice_in_09-lambdas-and-streams - 2019.04.27 at 15h 17m 17s.xml">
+      <configuration name="org.elsys.streams.practice in 09-lambdas-and-streams" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< Updated upstream
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+=======
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+>>>>>>> Stashed changes
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< Updated upstream
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3291536" />
+=======
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+>>>>>>> Stashed changes
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Codota" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/FilterCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/JoiningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Kids.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/PartitioningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/FlatCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/FilterCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/FilterCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/GroupingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Grouping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> Stashed changes
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/OldestPersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+=======
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6660.44082/Joining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Partitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/SumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> Stashed changes
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/KidsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+=======
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/ToUpperCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/ToUpperCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Joining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/FlatCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="449" column="37" lean-forward="true" selection-start-line="449" selection-start-column="10" selection-end-line="449" selection-end-column="37" />
+          <folding>
+            <element signature="e#18157#18158#0" expanded="true" />
+            <element signature="e#18222#18223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/IntSummaryStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+          <folding>
+            <element signature="e#3145#3146#0" expanded="true" />
+            <element signature="e#3173#3174#0" expanded="true" />
+            <element signature="e#3371#3372#0" expanded="true" />
+            <element signature="e#3397#3398#0" expanded="true" />
+            <element signature="e#3636#3637#0" expanded="true" />
+            <element signature="e#3662#3663#0" expanded="true" />
+            <element signature="e#3901#3902#0" expanded="true" />
+            <element signature="e#3927#3928#0" expanded="true" />
+            <element signature="e#4155#4156#0" expanded="true" />
+            <element signature="e#4232#4233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/PeopleStatsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/PeopleStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="11" column="86" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/elsys/streams/practice/OldestPersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elsys/streams/practice/OldestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+>>>>>>> Stashed changes
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>09-lambdas-and-streams</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
